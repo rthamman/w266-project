@@ -1,0 +1,483 @@
+Prevention and Early Detection of Prostate Cancer
+Jack Cuzick, PhD, Professor, Mangesh A. Thorat, MBBS, Gerald Andriole, MD, Professor, Otis W. Brawley, MD, Professor, Powel H. Brown, MD, Professor, Zoran Culig, MD, Rosalind A. Eeles, PhD, Professor, Leslie G. Ford, MD, Freddie C. Hamdy, MD, Professor, Lars Holmberg, MD, Professor, Dragan Ilic, PhD, Timothy J. Key, D.Phill, Professor, Carlo La Vecchia, MD, Professor, Hans Lilja, MD, Professor, Michael Marberger, MD, Professor, Frank L. Meyskens, MD, Professor, Lori M. Minasian, MD, Chris Parker, MD, Howard L. Parnes, MD, Sven Perner, MD, Professor, Harry Rittenhouse, PhD, Jack Schalken, PhD, Professor, Hans-Peter Schmid, MD, Professor, Bernd J. Schmitz-Dräger, MD, Professor, Fritz H. Schröder, MD, Professor, Arnulf Stenzl, MD, Professor, Bertrand Tombal, MD, Professor, Timothy J. Wilt, MD, Professor, and Alicja Wolk, DrMedSci, Professor
+Author information ► Copyright and License information ►
+The publisher's final edited version of this article is available at Lancet Oncol
+See other articles in PMC that cite the published article.
+Go to:
+Abstract
+Prostate cancer is one of the most common cancers in men and the global burden of this disease is rising. Lifestyle modifications like smoking cessation, exercise and weight control offer opportunities to decrease the risk of developing prostate cancer. Early detection of prostate cancer by PSA screening remains controversial; yet, changes in PSA threshold, frequency of screening, and addition of other biomarkers have potential to minimise overdiagnosis associated with PSA screening. Several new biomarkers appear promising in individuals with elevated PSA levels or those diagnosed with prostate cancer, these are likely to guide in separating individuals who can be spared of aggressive treatment from those who need it. Several pharmacological agents like 5α-reductase inhibitors, aspirin etc. have a potential to prevent development of prostate cancer. In this review, we discuss the current evidence and research questions regarding prevention, early detection of prostate cancer and management of men either at high risk of prostate cancer or diagnosed with low-grade prostate cancer.
+
+Keywords: prostate cancer, prevention, risk factors, PSA, screening
+Go to:
+Introduction
+Prostate cancer is one of the most common cancers in men and its incidence continues to rise in many countries 1. Screening for and management of early prostate cancer is one of the most challenging and controversial issues in all of medicine. In this paper, we review current evidence regarding risk assessment, early detection, and management of early prostate cancer and identify the key issues still in need of further research (figure). Better identification of risk factors to guide risk adapted screening and preventive interventions emerged as a key issue. A particular focus was lifestyle factors that are potentially modifiable and preventive therapies which might reduce risk. PSA-based screening for prostate cancer remains controversial and results from the CAP/ProtecT trial are eagerly awaited. Much work is currently ongoing to evaluate new tests which might be offered either as part of primary screening, or to help with the triage of men with an elevated PSA level and these are discussed in some detail. We also examine management strategies for low grade cancers and men with elevated PSA levels but negative biopsies. Lastly, we evaluate new tests based on serum markers or tissue from needle biopsies, the role of multi-parameter MRI and outline the need for better diagnostic tools. We conclude with a research agenda of areas most in need of further development and evaluation.
+
+Figure
+Figure
+Prevention and Early Detection of Prostate Cancer
+Risk factors
+
+These were separated into 3 groups as non-modifiable (including known genetic mutations/polymorphisms, and where no specific gene(s) have yet been identified), external exposures, including lifestyle factors when modification might be possible, and blood based markers, which might be a result of a mixture of the above.
+
+Non-modifiable factors
+Paramount among these is age. In unscreened populations prostate cancer has the steepest age-incidence curve of all cancers and increases at approximately the 6th power of age. Only 25% of cancers are diagnosed before the age of 65y in Europe 1. Racial variation is also pronounced, with black men of African ancestry in the USA having 58% greater incidence and 144% greater mortality rates, and Hispanics having 14% lower incidence and 17% lower mortality rates compared to those for white men of European ancestry 2. Considerable geographic variation is also observed. For example, within Europe, incidence and mortality in Sweden is about twice that in Spain and 1.5 times that in Italy 3. Incidence in immigrant populations from less developed regions is also lower than native Caucasian populations in more developed nations 4. Asian Indians/Pakistanis living in the USA have a standardised incidence ratio (SIR) of 0.54 (95% CI 0.49–0.59) compared with native whites 4. However, the incidence in these immigrants is considerably higher compared to that in their country of origin. This could at least partially be due to the absence of population screening in their country of origin 4. Similar findings for immigrant populations in Sweden, have been recently reported and this study also demonstrated that the differences reduced with increasing length of stay 5, suggesting that lifestyle is an important component of these differences.
+
+Genetic factors
+The relative risk of developing prostate cancer is higher (RR = 2.48; 95% CI 2.25–2.74) in men who have a first-degree relative with prostate cancer. This risk is higher in men under 65 (RR = 2.87; 95% CI 2.21–3.74) compared to older men, and if the affected relative was a brother rather than a father (RR = 3.14; 95% CI 2.37–4.15) 6. Family history is clearly important, but only 35% of the familial risk is currently explained by known genes. Although rare (about 1 per 300), a BRCA2 mutation confers up to an 8.6-fold increased risk in men below 65 years of age, and such mutations have also been related with aggressive cancer 7, 8. There are other rare mutations reported in BRCA1, HOXB13, NBS1 and CHEK28. The HOXB13 G84E mutated is the only other identified factor with an appreciative relative risk (3–4-fold) and the abnormal allele frequency is about 1.3 – 1.4% 9.
+
+GWAS studies have uncovered more than 70 lower penetrance susceptibility loci (per allele ORs of 1.1 to 1.3 in general) with much higher allele frequencies 8. These are individually of little direct value, except for the potential to identify mechanism of carcinogenesis, but when used collectively in panels may be able to help with risk stratification, They appear to act multiplicatively, and if so, can identify 1% of the population with a 4.7-fold relative risk8.
+
+Other potential familial risk factors for which a genetic basis has yet to be determined include some types of male pattern baldness 10 and digit length 11 but they need further confirmation, and their value in risk stratification remains uncertain.
+
+External exposure
+Both ionizing radiation 12 and UV radiation from sun exposure 13 have been linked to prostate cancer, but further confirmation and more detailed risk estimates are needed. There have also been some reports of increased risk in individuals exposed to cadmium, but a high exposure is rare, and the risk is at most small, so it has rather minimal impact on a public health scale.
+
+Urinary tract infections
+Some studies, but not all, have suggested that the risk for prostate cancer is increased in men with a history of urinary tract infections 14. Recent studies have provided some evidence for a role of Trichomonas vaginalis, whereas the evidence for the importance of other agents such as human papillomavirus and cytomegalovirus is weaker 15. Infections might influence the risk for prostate cancer by causing chronic intra-prostatic inflammation, and pathological studies have also suggested that inflammation may be involved in the development of prostate cancer 16. More research on these topics is needed, and currently the role of urinary tract infections and chronic inflammation in the development of prostate cancer remains uncertain.
+
+Lifestyle factors
+
+Smoking
+Smoking is associated with a moderate increase in the risk of prostate cancer 17. This association is much stronger and the increase more pronounced for aggressive or fatal cancers, particularly in current or heavy smokers who appear to be at a 2-fold or higher risk 18. Current smokers are also at a higher risk of prostate cancer-specific mortality and recurrence. A stronger relationship with aggressive cancers is important and suggests that smoking may be involved in promoting metastatic spread 18.
+
+Diet, weight and physical activity
+A recent overview has suggested that increased BMI is associated with an increase in advanced prostate cancer but a decrease in localised disease 19, which may explain some of the conflicting findings in earlier reports. Analysis of the Prostate Cancer Prevention Trial (PCPT) reported similar findings. No clear links with specific dietary factors have been established although many items, including red meat, dairy protein, dietary fat and coffee 19, have been suggested. A sedentary lifestyle has been linked to higher PSA in one large survey 20 and a meta-analysis of 19 cohort and 24 case-control studies found a small inverse relationship between physical activity and prostate cancer risk 21. Adult height has also been associated with increased risk 22.
+
+Endogenous hormones
+The possible role of endogenous hormones in the aetiology of prostate cancer has been investigated in prospective epidemiological studies. For sex hormones, a pooled analysis of individual participant data from 18 studies found no significant associations23, but more data are needed to explore the relationship where both, decreased overall risk 23 and an increased risk of high-grade cancer have been reported 24. For insulin-like growth factors (IGFs), a pooled analysis of individual participant data from 12 studies showed a significant positive association between circulating IGF-I and prostate cancer risk 25; more data are required on IGF-II and IGF binding proteins.
+
+PSA screening
+
+The value of PSA screening is a hotly debated issue. Five screening trials have been completed, but 3 are not of adequate quality to be informative 26. The remaining two are of higher methodological quality and are most informative. These two large trials, PLCO 27 and ERSPC 28, have reported apparently different results 29. However this may be explained at least in part by differences in their design. The PLCO trial in the USA, where PSA testing is widespread, can be viewed as a trial of opportunistic vs. organised annual screening 29. Equal proportions of men in control (34.3% once and 9.8% two or more times) and screening arms (34.6% once and 9.4% two or more times) had undergone PSA testing within 3 years preceding recruitment in the trial 27. And although the rate of PSA testing in control group (40%) was lower than that in screening group (85%) in the first year, it increased to 52% in the sixth year. Men randomised to intervention arm had a higher prostate cancer incidence (RR =1.12; 95% CI = 1.07 to 1.17) but no reduction in prostate cancer mortality has been seen (RR =1.09; 95% CI = 0.87 to 1.36). The observed lack of benefit may not be entirely due to contamination in the control arm as the results did not vary by PSA screening status at baseline, but those having undergone pre-recruitment screening had 25% lower prostate cancer death rates than those who did not. In contrast the European ERSPC trial 28 examined the role of PSA screening in a largely unscreened population (7–30% of control men screened during the trial depending on trial centre) from 7 countries with varying screening and treatment strategies. Overall, they found a highly significant 21% reduction (rate ratio, 0.79; 95% CI 0.68 to 0.91; P=0.001) in death from prostate cancer in a pre-defined subgroup of men aged 55–69 years after 11 years of follow up. Comparisons of treatments used in the two randomised groups have been conducted to see if this could explain these differences 30, 31. More patients in the screening arm were found to be treated by radical prostatectomy and more with hormone therapy in the control arm, but this was largely explained by worse tumour characteristics in the control arm, reflecting their later diagnosis30. The authors concluded treatment differences could not entirely explain the mortality benefit30. Differences in terms of screening interval and follow up protocols also exist between the two trials, but it was felt that the major difference between the findings of these studies could be explained by the high screening rates in the controls of PLCO. Other 3 methodologically lower quality trials did not observe any reduction in prostate cancer mortality 26.
+
+The majority of the members (62%) of the group agreed that PSA screening does reduce death from prostate cancer; others (GA, OWB, PHB, LGF, FCH, DI, LMM, HLP, BT, TJW and AW) felt that the current evidence is not sufficiently conclusive. All agreed that the magnitude of the effect was uncertain and that there is a substantial degree of overdiagnosis and overtreatment, which needs to be reduced before recommendations for using PSA screening in the general population can be made. A third major trial (the CAP/ProtecT trial) involving 450,000 men (ISRCTN92187251 and ISRCTN20141217) is due to report its initial findings in 2016 and this should help to clarify the value of PSA screening. It was agreed that death from prostate cancer should be the primary endpoint for screening studies. While difficulties in ascertainment of cause of death exist in older men, overall mortality suffers from lack of power due to deaths from unrelated cause and the sample size required to observe an effect is prohibitively large. Every effort should be made to accurately identify the specific cause of death. A useful secondary endpoint is the development of metastatic disease, which can provide more powerful and earlier evidence of a screening effect provided it is assessed with equal thoroughness in both trial arms.
+
+New triage and screening markers
+A major focus of research needs to be the development of new methods and markers which more clearly separate indolent (low-risk) cancers from aggressive and potentially lethal ones, thus enabling conservative management of a much larger proportion of the cancers found. Ideally this would be achieved by non-invasive and relatively cheap methods such as additional serum markers (such as the Kallikrein proteins) or urinary markers (such as PCA3 or TMPRSS-ERG fusions). Multi-parametric MRI (mp-MRI) or assays that can be performed in needle biopsies (such as the CCP score, others) may also be useful for safely avoiding radical prostatectomy and radiotherapy in a proportion of patients and therefore avoiding the morbidity associated with these treatments.
+
+Modifications of existing PSA screening strategies like changes in screening frequency and PSA thresholds have potential to reduce harms from screening. Increasing interval between PSA tests, from annual testing as in the PLCO trial to testing to tests every 2–4 years as in the ERSPC trial may reduce harms from overdiagnosis without much detrimental effect on prostate cancer mortality reduction. Similarly, some data from population-based studies and RCTs like the Prostate Cancer Intervention vs. Observation Trial (PIVOT) support increasing threshold to define an abnormal PSA value to 6–10 ng/mL from existing 3–4 ng/mL level 32.
+
+Serum and urine markers
+Several potential improvements on the current PSA assay have been developed. Of these the prostate health index PHI, which is based on a molecular isoform of free PSA 33, is the most developed and has been shown to have greater specificity than use of total PSA or % free PSA. Adding the Kallikrein protein hK2 to PSA based markers has also been shown to improve the specificity of PSA based assays 34 but both need further validation in a screening context, with a particular focus on how they might be integrated into screening algorithms and compared against current risk calculations.
+
+Urinary markers need some degree of prostatic massage via DRE, to obtain enough cells to be sensitive, which limits their role to triage men identified to be at increased risk. Currently the assays are complicated and require a specialist laboratory for their use. Two assays have received the most attention. PCA3 measures mRNA 35 only produced in prostate tissue which is markedly overexpressed in prostate cancer cells. PCA3 is more specific than PSA, which is a measure of total prostate volume. Initial reports indicate that while it does usefully identify cancer, it does not discriminate between low risk and aggressive disease 36. A urinary marker that detects the fusion of TMPRSS2 with ERG is also under development and may have greater ability to separate aggressive from low risk early lesions 37. Measurement of gene fusions between ERG and other potentially important genes in urine or multiplexing of PCA3 and TMPRSS2-ERG with other genes like SPINK1 and GOLPH2 is also an area of interest.
+
+Comparative studies have indicated that PHI, the 4 marker Kallikrein panel and PCA3 are all more accurate than conventional PSA in detecting cancer, primarily as a result of better specificity 34, 38. PSA levels at ages between 40 and 60 have also been shown to predict risk of prostate cancer several years later and may also help in identifying cancers likely to become metastatic or lead to death 39, 40. This needs to be investigated further to improve screening and triage strategies.
+
+Methylation markers may also be useful for the diagnosis and prognosis of prostate cancer, but work is still in an early stage. Further research is needed for validation with an aim to allow use in needle biopsy specimens and ultimately serum or urine samples.
+
+Multi-parametric Magnetic Resonance Imaging
+
+Multi-parametric MRI includes a combination of high resolution T2-weighted image and at least two functional MRI techniques such as diffusion weighted imaging (DWI), dynamic contrast enhancement (DCE), MR spectroscopy (MRS) to improve specificity 41, 42. It aims to provide better anatomical delineation, improved specificity in characterisation of lesions, and a more reliable assessment regarding organ-confinement of the tumour in order to guide therapy. A key question is the ability of mp-MRI to identify which Gleason 6 cancers can be safely managed by active surveillance (AS). The potential for such use is based on its ability to highlight areas of aggressive disease, and improve staging by identifying extra-capsular extension or disease in anterior or apical locations, which may not be reliably ascertained on digital rectal examination or standard systematic biopsies 41. Apart from improving planning of curative treatments, this is also likely to improve selection of patients for AS. The potential role of mp-MRI to monitor AS patients also needs to be investigated 42. The value of MRI-guided biopsies and MRI-transrectal ultrasound fusion guided biopsies is emerging and both show higher detection rates for significant cancer than standard systematic biopsies 42. Ongoing trials like Prostate MRI Imaging Study (PROMIS; ISRCTN: 16082556) are likely to clarify its role in the diagnostic pathway and its cost-effectiveness. Incorporation of mp-MRI in models predicting cancer risk in cases with prior negative biopsy also appears promising but requires further study 41, 42.
+
+Markers in needle biopsies
+Although done at a later stage, progression markers identified in needle biopsies, may still be able to help avoid unnecessary radical treatment.
+
+Ki67 by immunohistochemistry (IHC) is the most established marker and has been shown to be useful in distinguishing between aggressive and indolent prostate cancer 43. IHC and Fluorescent in situ Hybridisation (FISH) assays for PTEN have also shown some promise 44, 45 as has a FISH assay for TMPRSS2-ERG fusion 46, albeit with conflicting results 47. Similarly overexpression of MYC48 by FISH and p5349 by IHC have also been shown to possess some prognostic potential. A four-protein signature, PTEN, SMAD4, cyclin D1, and SPP1, as assessed by IHC has been found to predict biochemical recurrence 50.
+
+Of far greater prognostic value is a cell cycle progression score (Prolaris, Myriad Genetics), it has been shown to be predictive of outcome in a number of studies in TURP, needle biopsy and radical prostatectomy specimens 51. As this material contains much more tumour than a serum or urinary sample, the potential for better assessment exists. However issues of inadequate sampling still remain for needle biopsies especially when few cores are obtained, and the performance of these assays when 12 core or template biopsies are taken is an important research area. Other mRNA marker panels have also been explored with some success, often containing PTEN, p53 or TMPRSS2-ERG 52;
+
+Management of men with elevated PSA
+
+Management of men with elevated PSA levels but who have negative biopsies presents another important question. Studies 53, 54 have shown a high incidence of prostate cancer over the subsequent few years of follow up. The Göteborg sub-cohort of the ERSPC observed a 26% incidence within 4 years 54, whereas 10% of such men in PLCO developed prostate cancer within 3 years of negative biopsy 53. The placebo arm of the Prostate Cancer Prevention Trial (PCPT) has also shown similarly high positivity rates (15% overall) for cancer in biopsies of men with normal PSA levels at the end of a 7-year study period 55. The role of additional markers like Kallikrein panels for triage of such men merits further investigation 34.
+
+Management of low grade prostate cancer
+
+An equally pressing issue is the management of men with low grade (e.g. Gleason score 6) cancer. Gleason 6 is a poorly defined entity, and its natural history and the appropriate active surveillance protocols are ill-defined and need to be refined and clinically validated.
+
+The PIVOT trial 32 has shown that for selected low risk subgroups, passive observation lead to the same prostate cancer mortality as radical prostatectomy, and this is a potentially important management option. However, the SPCG-4 trial, where almost all of diagnoses were symptom-driven, reported reductions in prostate cancer or all-cause mortality and distant metastases with radical prostatectomy as compared with observation, but only the effect on distant metastases was statistically significant in men aged 65 years or more 56. Apart from treatment-related morbidity and mortality, observation alone also avoids biopsy-related morbidity in active surveillance. The challenge remains to identify as large a subgroup as possible which can be safely managed this way. For this purpose new markers of aggression need to be developed and validated, especially in men with Gleason 6 cancer and PSA < 10ng/ml.
+
+Role of 5α-reductase inhibitors
+
+Evaluation of the use of 5α-reductase inhibitors (5-ARIs) either for prevention or management of early disease has produced complex outcomes. The PCPT 57 evaluated finasteride in men with low PSA (</= 3mg/ml) and no evidence of disease. Biopsies were recommended if DRE was abnormal or PSA adjusted for finasteride effect exceeded 4.0 ng/ml or at the end of the study. After 7 years of follow up a 24.8% reduction (95% CI 18.6–30.6%) in all prostate cancer was seen, but this effect was restricted to a reduction in Gleason 6 or below cancers, and an increase of 27% in high grade tumours was seen (RR = 1.27; 95% CI 1.07–1.50). Very similar results were seen in the REDUCE trial 58 which evaluated dutasteride, another 5α-reductase inhibitor, in a high risk population of men with a PSA value between 2.5 – 10ng/ml, but a negative initial prostate biopsy. After a four year follow up, a 23% reduction in all prostate cancer was observed, but again with no effect on Gleason 7 or above cancer and an increased number of Gleason 10 tumours. While both drugs have a beneficial impact on benign prostatic disease, the lack of effect on high grade cancer has been a major concern. Relatively greater sampling by biopsy because of smaller total prostate size has been offered as an explanation for this 59. Similar to the findings in the RCTs, a recent large population-based case-control study reported significantly decreased risk of cancer with Gleason scores 2–7 in men treated with 5-ARIs; however, in contrast to RCTs, no evidence of an increased risk of cancer with Gleason scores 8–10 was seen 60. Prevention of low risk prostate cancer is potentially beneficial by avoiding diagnosis and treatment-related harms, and it may even be cost-effective 61, but neither drug has been approved by the FDA for cancer prevention. Recent long-term results from PCPT confirmed earlier findings and 15-year overall survival rates were similar in both arms even though more high-grade prostate cancers were diagnosed in the finasteride arm 62. It is worth noting however that the trial had limited power to detect a difference in overall survival. For individuals on 5-alpha-reductase inhibitors, clinicians should adjust the PSA biopsy thresholds as these agents decrease PSA values. Retrospective analysis of the REDUCE trial has shown that PSA maintains its predictive value for men on dutasteride when lower biopsy thresholds are used 63.
+
+Dutasteride has also been investigated as an adjuvant treatment in REDEEM trial of 302 men (289 evaluable) with Gleason 5–6 cancer managed by active surveillance 64. After a 3-year follow-up, a 38% reduction (HR = 0·62, 95% CI 0·43–0·89) in progression was seen with dutasteride but no metastatic disease or prostate cancer related deaths were seen in either arm. A large trial with longer follow up is needed to fully evaluate role of 5α-reductase inhibitors in the prevention of aggressive prostate cancer.
+
+Other preventive agents
+
+Trials of agents found in the diet which were thought to have a beneficial impact on prostate cancer have been disappointingly negative 65. Early randomised studies of the role of beta-carotene in those at high risk of the lung cancer showed an increase in lung cancer, as well as stomach cancer. In a more recent study with prostate cancer as the primary endpoint, the SELECT trial 66 has found that in 35 533 men with PSA ≤ 4ng/ml and a negative DRE, neither selenium nor vitamin E supplementation had a beneficial impact on prostate cancer incidence and an increase in incidence was observed with vitamin E.
+
+A short term study of the polyamine synthesis inhibitor difluoromethylornithine (DFMO) has been completed67. It was found to significantly lower polyamine content in the prostate within one month, and suppression of prostate putrescine levels was maintained and the rate of prostate growth was decreased on a 12-month follow up compared with placebo. Further long term follow up studies are needed.
+
+Evidence for other preventive or therapeutic interventions is currently limited and comes from randomized trials in which prostate cancer was a secondary endpoint and from epidemiologic studies. The agent with the most promising profile is aspirin. Both case-control and cohort studies 68 suggested a small but consistent reduction in incidence of approximately 10%. The randomized trials 69 have suggested a somewhat larger 19% reduction (p = 0.12) in mortality, suggesting that this benefit is also seen for aggressive tumours. This has been corroborated in Health Professionals Follow-up Study (HPFS), which observed a 16% reduction (HR = 0.84; 95%CI 0.69–1.02) in lethal prostate cancers (metastatic or fatal)70. These trials have been conducted in individuals at average risk for prostate cancer - with or without cardiovascular risk factors, and further studies focused on high risk individuals and those with Gleason ≥7 tumours are needed. There are suggestions that one aspect of aspirin’s effects is through an anti-platelet mechanism to slow metastatic spread and improve survival, but effects through other pathways have also been proposed 70. Also, a range of adjuvant trials in different tumour types including prostate cancer are either underway (ClinicalTrials.gov Identifiers: NCT00565708 and NCT01058902) or are being planned. An overview of observational studies has suggested beneficial effect of statins in reducing prostate cancer incidence, and particularly advanced prostate cancer incidence 71. However, reduction in prostate cancer incidence is not seen with long-term statin use and also when data from RCTs are also considered 72. Residual confounding due to health awareness in statin users and screening frequency is likely and the potential beneficial effect remains unclear in absence of long-term follow-up data; further research and long-term follow-up of RCTs are needed.
+
+Results to date for other dietary supplements have not been very promising. Vitamin D showed promise in some initial epidemiologic studies, but more recent work has been negative 73. However several major studies are underway and they need to be completed before a full conclusion can be reached.
+
+Lycopene, an open chain carotenoid found in cooked tomatoes also showed initial promise, but an overview of all randomized controlled trials to date has not shown any overall effect 74, although the data are still sparse. Meta-analysis of observational evidence indicates no overall effect with low/moderate intake, but a potential effect with high lycopene intake (RR=0.89, 95% CI 0.81–0.98) 75, although the evidence is very limited.
+
+Several other dietary factors are of interest including sulforaphane, a naturally occurring isothiocyanate, which is found in broccoli and other cruciferous vegetables and is currently being investigated (ClinicalTrials.gov Identifiers: NCT01265953 and NCT00946309).
+
+Research and Policy Agenda
+The key research issues focus around better biomarkers for identification of aggressive disease. A number of potential modalities look promising and require further development. Of these, urinary markers such as PCA3 and TMPRSS2-ERG are the most developed but still require further validation. Use of multi-parametric MRI also shows promise for identifying the most significant lesion and guiding biopsy towards the most aggressive appearing region, especially in men with higher PSA values. Further studies investigating its role are needed. Once a biopsy has been taken, expression profile panels such as the CCP score offer good prospects for determining tumour aggressiveness, and they need to be evaluated in a range of contexts. A significant proportion of cases with high PSA or cases identified as high risk by conventional variables do not progress or cause death. Biomarkers identifying indolent disease in such cases are also needed to identify men who can be spared of treatment and resulting adverse effects. When better biomarkers become available, future etiological studies of modifiable risk factors should focus on those associated with aggressive prostate cancer.
+
+Careful consideration of the population most like to benefit from screening is also needed. In particular men aged greater than 70 years or younger men with other serious comorbidities are not good candidates. Lengthening screening interval to every 2–4 years may also reduce harms without significantly reducing benefits. Better primary screening markers that improve the specificity are also needed and assays such as PHI and the 4 marker Kallikrein panel need to be rigorously evaluated in the appropriate clinical setting.
+
+In addition, the appropriate treatment and management of individuals without cancer but at high risk (often due to elevated PSA but negative biopsy), with low grade tumours (Gleason 6 and PSA < 10 ng/ml) tumours, or with a genetic predisposition is an area that urgently needs further work. Currently aspirin looks to be one of the more promising agents, although further studies on dietary supplements including vitamin D, DFMO, lycopene and sulforaphane are warranted. Further study on the 5-α reductase inhibitors will be difficult in the current climate although many issues remain unresolved.
+
+Go to:
+Conclusions
+Evidence is still uncertain for several of the modifiable prostate cancer risk factors. However, lifestyle modifications like smoking cessation and exercise can decrease the risk of developing prostate cancer. 5α-reductase inhibitors, although associated with an increased number of high-grade prostate cancers, reduce overall prostate cancer burden. In absence of any detrimental effect on survival, these agents can be cost-effective in prostate cancer prevention. Several other pharmacological agents, e.g. aspirin appear promising and need further evaluation in clinical trials; many such trials are already underway. While PSA screening remains a controversial topic, overdiagnosis associated with PSA screening can be minimised by one or several modifications like changes in the PSA threshold, frequency of screening, and addition of other biomarkers like Kallikrein panel, free-PSA. Prospective evaluation of these should remain among top research priorities. The role of newer biomarkers like urinary PCA3 and TMPRSS2-ERG assays also appears promising and needs further evaluation in screening setting. Similarly, newer methods to distinguish aggressive prostate cancers from indolent cancers diagnosed during screening are needed and biomarkers like Ki67, CCP or imaging methods like mp-MRI need further prospective evaluation so that these can be incorporated in management algorithms to minimise overtreatment.
+
+​
+Search strategy and selection criteria
+
+References for this Review were identified through searches of PubMed. Publication date or language restrictions were not applied. Search terms “prostate cancer”, “risk factors”, “screening”, “early detection” and “prevention” were used. Articles identified through searches of the authors’ own files were also considered. The final reference list is based on originality and relevance to the broad scope of this Review.
+
+Go to:
+Acknowledgments
+We thank Vesna Florijancic, Liz Pinney and Ellie Stewart for administrative assistance.
+
+Role of funding source:
+
+This evidence review was sponsored and funded by the International Society for Cancer Prevention (ISCaP), the European Association of Urology (EAU), the National Cancer Institute, USA (NCI) (Grant number: 1R13CA171707-01), the Prostate Cancer UK, the Cancer research UK (CRUK)(Grant number: C569/A16477), and the Association for International Cancer Research (AICR). Sponsors and funding sources had no role in the discussions or writing of this manuscript.
+
+Go to:
+Footnotes
+Disclaimer: The findings and conclusions in this report are those of the authors and do not represent the official position of the authors’ respective institutions.
+
+Author contributions:
+
+JC, MAT, PHB and FLM had the original idea for this Review. JC and MAT wrote the first draft, all authors contributed to writing and critical review of successive drafts. All authors approved the final manuscript. JC is guarantor and had final responsibility for the decision to submit for publication.
+Conflicts of interest:
+
+JC reports grants from Cancer Research UK, the Prostate Cancer UK, the Association for International Cancer Research, during the conduct of the study; grants, personal fees from Myriad Genetics, personal fees, non-financial support from Bayer, and membership of advisory board of Myriad Genetics and Bayer, outside the submitted work. MAT reports grants from Cancer Research UK, the Prostate Cancer UK, the Association for International Cancer Research, during the conduct of the study. GA reports grants from NCI, during the conduct of the study; personal fees from Augmenix, Bayer, Genomic Health, GlaxoSmithKline, Myriad Genetics, research grants from Johnson & Johnson, Medivation, Wilex, outside the submitted work. PHB serves as a Scientific Advisory Board Member for Susan G. Komen Foundation, outside the submitted work. RAE reports Medical Education support from Janssen, personal fees and expenses from Succinct Communications, outside the submitted work. LH reports support from Swedish County Authorities, during the conduct of the study, in his capacity as the head of a publicly funded regional cancer centre that has the remit to oversee early detection and prevention for cancer in one of six health care regions in Sweden. HL reports grants from National Cancer Institute (R01CA160816; P50-CA92629) to MSKCC, New York, NY, USA, grants from David H. Koch through the Prostate Cancer Foundation to the Sidney Kimmel Center for Prostate and Urological cancers at MSKCC, New York, NY, USA, grants from Swedish Cancer Society (nr 11-0624) to Lund University, Malmö Sweden, grants from Fundacion Federico SA grant to Lund University, Malmö Sweden, grants from the National Institute for Health Research (NIHR) Oxford Biomedical Research Centre Program, University of Oxford, Oxford, UK, during the conduct of the study; In addition, HL holds a patent for free PSA, intact PSA and hK2 assays with royalties paid to Arctic Partners, and a patent application for a statistical method to detect prostate cancer filed by Arctic Partners and licensed to OPKO. MM reports grants and personal fees from GSK, grants and personal fees from MSD, during the conduct of the study; grants and personal fees from GSK, and MSD, outside the submitted work. FLM reports travel support from Cancer Prevention Pharmaceuticals, outside the submitted work; FLM is a co-Founder of Cancer Prevention Pharmaceuticals. CP reports grants and personal fees from Bayer, personal fees from Astellas, BNIT, Janssen, Sanofi-Aventis, Takeda, outside the submitted work. BT reports personal fees from Amgen, grants and personal fees from Astellas, and Ferring, personal fees from Medivation, Bayer, Dendreon, non-financial support from IPSEN, outside the submitted work. The other authors declared no conflicts of interest
+
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Go to:
+Contributor Information
+Jack Cuzick, Centre for Cancer Prevention, Wolfson Institute of Preventive Medicine, Queen Mary University of London, London, UK.
+
+Mangesh A. Thorat, Centre for Cancer Prevention, Wolfson Institute of Preventive Medicine, Queen Mary University of London, London, UK.
+
+Gerald Andriole, Division of Urologic Surgery, Barnes-Jewish Hospital, Washington University School of Medicine, St. Louis, MO, USA.
+
+Otis W. Brawley, Office of the Chief Medical Officer, American Cancer Society, Atlanta, GA; Department of Hematology and Oncology, Emory University, Atlanta, GA.
+
+Powel H. Brown, Department of Clinical Cancer Prevention, Division of OVP, Cancer Prevention and Population Sciences, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.
+
+Zoran Culig, Molecular Pathology, Dept. of Urology, Innsbruck Medical University, Innsbruck, Austria.
+
+Rosalind A. Eeles, Division of Cancer Genetics & Epidemiology, The Institute of Cancer Research and Royal Marsden NHS Foundation Trust, London, UK.
+
+Leslie G. Ford, Division of Cancer Prevention, National Cancer Institute, Bethesda, MD, USA.
+
+Freddie C. Hamdy, Urology, Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK.
+
+Lars Holmberg, Medical School, King’s College London, London, UK; Regional Cancer Center Uppsala Orebro and Department of Surgical Sciences, Uppsala University, Uppsala, Sweden.
+
+Dragan Ilic, School of Public Health & Preventive Medicine, Department of Epidemiology & Preventive Medicine, Monash University, Melbourne, Victoria, Australia.
+
+Timothy J. Key, Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, Oxford, UK.
+
+Carlo La Vecchia, Department of Clinical Sciences and Community Health, University of Milan, Milan, Italy.
+
+Hans Lilja, Department of Surgery (Urology), Laboratory Medicine, and Medicine (GU-Oncology), Memorial Sloan -Kettering Cancer Center, New York, USA; Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK; Department of Laboratory Medicine, Lund University, University Hospital UMAS, Malmö Sweden.
+
+Michael Marberger, Department of Urology, Vienna University Medical School, Vienna, Austria.
+
+Frank L. Meyskens, Professor of Medicine, Biological Chemistry, Public Health, and Epidemiology, Vice Dean, School of Medicine, University of California, Irvine, CA, USA.
+
+Lori M. Minasian, Division of Cancer Prevention, National Cancer Institute, Bethesda, MD, USA.
+
+Chris Parker, Academic Urology Unit, Royal Marsden NHS Foundation Trust and Institute of Cancer Research, Sutton, UK.
+
+Howard L. Parnes, Prostate and Urologic Cancer Research Group, Division of Cancer Prevention, National Cancer Institute, Bethesda, MD, USA.
+
+Sven Perner, Department of Prostate Cancer Research, Institute of Pathology, University Hospital of Bonn, Bonn, Germany.
+
+Harry Rittenhouse, Director of Assay Development, IR2Dx Inc. Moraga, CA, USA.
+
+Jack Schalken, Urology, Radboud University Medical Center, Nijmegen, The Netherlands.
+
+Hans-Peter Schmid, Department of Urology, Kantonsspital St. Gallen, St. Gallen/Switzerland.
+
+Bernd J. Schmitz-Dräger, Urologie, SchönKlinik Nürnberg/Fürth & Urologie 24, c/o Europa-Allee 1, D-90763 Fürth, Germany.
+
+Fritz H. Schröder, Erasmus University and Erasmus Medical Centre, Rotterdam, The Netherlands.
+
+Arnulf Stenzl, Dept. of Urology, University Hospital Tübingen, Tuebingen, Germany.
+
+Bertrand Tombal, Department of Urology, Universitécatholique de Louvain, Brussels, Belgium.
+
+Timothy J. Wilt, Center for Chronic Disease Outcomes Research, Minneapolis Veterans Affairs (VA) Health Care System, and Section of General Medicine, University of Minnesota School of Medicine, Minneapolis, Minnesota, USA.
+
+Alicja Wolk, Division of Nutritional Epidemiology, Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden.
+
+Go to:
+References
+1. Ferlay J, Shin HR, Bray F, Forman D, Mathers C, Parkin DM. Estimates of worldwide burden of cancer in 2008: GLOBOCAN 2008. Int J Cancer. 127(12):2893–917. [PubMed]
+2. Merrill RM, Sloan A. Risk-adjusted incidence rates for prostate cancer in the United States. Prostate. 2012;72(2):181–5. [PubMed]
+3. Center MM, Jemal A, Lortet-Tieulent J, et al. International variation in prostate cancer incidence and mortality rates. Eur Urol. 2012;61(6):1079–92. [PubMed]
+4. Goggins WB, Wong G. Cancer among Asian Indians/Pakistanis living in the United States: low incidence and generally above average survival. Cancer Causes Control. 2009;20(5):635–43. [PubMed]
+5. Hemminki K, Ankerst DP, Sundquist J, Mousavi SM. Prostate cancer incidence and survival in immigrants to Sweden. World J Urol. 2013 [PubMed]
+6. Kicinski M, Vangronsveld J, Nawrot TS. An epidemiological reappraisal of the familial aggregation of prostate cancer: a meta-analysis. PLoS One. 2011;6(10):e27130. [PMC free article] [PubMed]
+7. Castro E, Goh C, Olmos D, et al. Germline BRCA Mutations Are Associated With Higher Risk of Nodal Involvement, Distant Metastasis, and Poor Survival Outcomes in Prostate Cancer. J Clin Oncol. 2013 [PMC free article] [PubMed]
+8. Goh CL, Eeles RA. Germline genetic variants associated with prostate cancer and potential relevance to clinical practice. Recent Results Cancer Res. 2014;202:9–26. [PubMed]
+9. Karlsson R, Aly M, Clements M, et al. A Population-based Assessment of Germline HOXB13 G84E Mutation and Prostate Cancer Risk. Eur Urol. 2012 [PubMed]
+10. Amoretti A, Laydner H, Bergfeld W. Androgenetic alopecia and risk of prostate cancer: A systematic review and meta-analysis. J Am Acad Dermatol. 2013 [PubMed]
+11. Rahman AA, Lophatananon A, Stewart-Brown S, et al. Hand pattern indicates prostate cancer risk. Br J Cancer. 2011;104(1):175–7. [PMC free article] [PubMed]
+12. Myles P, Evans S, Lophatananon A, et al. Diagnostic radiation procedures and risk of prostate cancer. Br J Cancer. 2008;98(11):1852–6. [PMC free article] [PubMed]
+13. Nair-Shalliker V, Smith DP, Egger S, et al. Sun exposure may increase risk of prostate cancer in the high UV environment of New South Wales, Australia: a case-control study. Int J Cancer. 2012;131(5):E726–32. [PubMed]
+14. Sutcliffe S, Platz EA. Inflammation and prostate cancer: a focus on infections. Curr Urol Rep. 2008;9(3):243–9. [PubMed]
+15. Sutcliffe S, Neace C, Magnuson NS, Reeves R, Alderete JF. Trichomonosis, a common curable STI, and prostate carcinogenesis--a proposed molecular mechanism. PLoS pathogens. 2012;8(8):e1002801. [PMC free article] [PubMed]
+16. De Marzo AM, Platz EA, Sutcliffe S, et al. Inflammation in prostate carcinogenesis. Nature reviews Cancer. 2007;7(4):256–69. [PMC free article] [PubMed]
+17. Huncharek M, Haddock KS, Reid R, Kupelnick B. Smoking as a risk factor for prostate cancer: a meta-analysis of 24 prospective cohort studies. American journal of public health. 2010;100(4):693–701. [PMC free article] [PubMed]
+18. Zu K, Giovannucci E. Smoking and aggressive prostate cancer: a review of the epidemiologic evidence. Cancer Causes Control. 2009;20(10):1799–810. [PubMed]
+19. Discacciati A, Wolk A. Lifestyle and dietary factors in prostate cancer prevention. Recent Results Cancer Res. 2014;202:27–37. [PubMed]
+20. Loprinzi PD, Kohli M. Effect of physical activity and sedentary behavior on serum prostate-specific antigen concentrations: results from the National Health and Nutrition Examination Survey (NHANES), 2003–2006. Mayo Clin Proc. 2013;88(1):11–21. [PubMed]
+21. Liu Y, Hu F, Li D, et al. Does physical activity reduce the risk of prostate cancer? A systematic review and meta-analysis. Eur Urol. 2011;60(5):1029–44. [PubMed]
+22. Zuccolo L, Harris R, Gunnell D, et al. Height and prostate cancer risk: a large nested case-control study (ProtecT) and meta-analysis. Cancer Epidemiol Biomarkers Prev. 2008;17(9):2325–36. [PMC free article] [PubMed]
+23. Roddam AW, Allen NE, Appleby P, Key TJ. Endogenous Hormones Prostate Cancer Collaborative Group. Endogenous sex hormones and prostate cancer: a collaborative analysis of 18 prospective studies. J Natl Cancer Inst. 2008;100(3):170–183. [PubMed]
+24. Lane BR, Stephenson AJ, Magi-Galluzzi C, Lakin MM, Klein EA. Low testosterone and risk of biochemical recurrence and poorly differentiated prostate cancer at radical prostatectomy. Urology. 2008;72(6):1240–5. [PubMed]
+25. Roddam AW, Allen NE, Appleby P, et al. Insulin-like growth factors, their binding proteins, and prostate cancer risk: analysis of individual patient data from 12 prospective studies. Ann Intern Med. 2008;149(7):461–71. W83–8. [PMC free article] [PubMed]
+26. Ilic D, Neuberger MM, Djulbegovic M, Dahm P. Screening for prostate cancer. Cochrane Database Syst Rev. 2013;1:CD004720. [PubMed]
+27. Andriole GL, Crawford ED, Grubb RL, 3rd, et al. Prostate cancer screening in the randomized Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial: mortality results after 13 years of follow-up. J Natl Cancer Inst. 2012;104(2):125–32. [PMC free article] [PubMed]
+28. Schroder FH, Hugosson J, Roobol MJ, et al. Prostate-cancer mortality at 11 years of follow-up. N Engl J Med. 2012;366(11):981–90. [PubMed]
+29. Pinsky PF, Blacka A, Kramer BS, Miller A, Prorok PC, Berg C. Assessing contamination and compliance in the prostate component of the Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial. Clinical trials. 2010;7(4):303–11. [PubMed]
+30. Wolters T, Roobol MJ, Steyerberg EW, et al. The effect of study arm on prostate cancer treatment in the large screening trial ERSPC. Int J Cancer. 2010;126(10):2387–93. [PubMed]
+31. Haines IE, Gabor Miklos GL. Prostate-specific antigen screening trials and prostate cancer deaths: the androgen deprivation connection. J Natl Cancer Inst. 2013;105(20):1534–9. [PubMed]
+32. Wilt TJ, Brawer MK, Jones KM, et al. Radical prostatectomy versus observation for localized prostate cancer. N Engl J Med. 2012;367(3):203–13. [PMC free article] [PubMed]
+33. Catalona WJ, Partin AW, Sanda MG, et al. A multicenter study of [-2]pro-prostate specific antigen combined with prostate specific antigen and free prostate specific antigen for prostate cancer detection in the 2.0 to 10.0 ng/ml prostate specific antigen range. J Urol. 2011;185(5):1650–5. [PMC free article] [PubMed]
+34. Vickers A, Cronin A, Roobol M, et al. Reducing unnecessary biopsy during prostate cancer screening using a four-kallikrein panel: an independent replication. J Clin Oncol. 2010;28(15):2493–8. [PMC free article] [PubMed]
+35. Bussemakers MJ, van Bokhoven A, Verhaegh GW, et al. DD3: a new prostate-specific gene, highly overexpressed in prostate cancer. Cancer Res. 1999;59(23):5975–9. [PubMed]
+36. Truong M, Yang B, Jarrard DF. Toward the detection of prostate cancer in urine: a critical analysis. J Urol. 2013;189(2):422–9. [PMC free article] [PubMed]
+37. Leyten GH, Hessels D, Jannink SA, et al. Prospective Multicentre Evaluation of PCA3 and TMPRSS2-ERG Gene Fusions as Diagnostic and Prognostic Urinary Biomarkers for Prostate Cancer. Eur Urol. 2012 [PubMed]
+38. Perdona S, Bruzzese D, Ferro M, et al. Prostate health index (phi) and prostate cancer antigen 3 (PCA3) significantly improve diagnostic accuracy in patients undergoing prostate biopsy. Prostate. 2013;73(3):227–35. [PubMed]
+39. Vickers AJ, Ulmert D, Sjoberg DD, et al. Strategy for detection of prostate cancer based on relation between prostate specific antigen at age 40–55 and long term risk of metastasis: case-control study. Bmj. 2013;346:f2023. [PMC free article] [PubMed]
+40. Vickers AJ, Cronin AM, Bjork T, et al. Prostate specific antigen concentration at age 60 and death or metastasis from prostate cancer: case-control study. Bmj. 2010;341:c4521. [PMC free article] [PubMed]
+41. Barentsz JO, Richenberg J, Clements R, et al. ESUR prostate MR guidelines 2012. Eur Radiol. 2012;22(4):746–57. [PMC free article] [PubMed]
+42. Lee DJ, Ahmed HU, Moore CM, Emberton M, Ehdaie B. Multiparametric magnetic resonance imaging in the management and diagnosis of prostate cancer: current applications and strategies. Curr Urol Rep. 2014;15(3):390. [PubMed]
+43. Berney DM, Gopalan A, Kudahetti S, et al. Ki-67 and outcome in clinically localised prostate cancer: analysis of conservatively treated prostate cancer patients from the Trans-Atlantic Prostate Group study. Br J Cancer. 2009;100(6):888–93. [PMC free article] [PubMed]
+44. Reid AH, Attard G, Ambroisine L, et al. Molecular characterisation of ERG, ETV1 and PTEN gene loci identifies patients at low and high risk of death from prostate cancer. Br J Cancer. 2010;102(4):678–84. [PMC free article] [PubMed]
+45. Lotan TL, Gurel B, Sutcliffe S, et al. PTEN protein loss by immunostaining: analytic validation and prognostic indicator for a high risk surgical cohort of prostate cancer patients. Clin Cancer Res. 2011;17(20):6563–73. [PMC free article] [PubMed]
+46. FitzGerald LM, Agalliu I, Johnson K, et al. Association of TMPRSS2-ERG gene fusion with clinical characteristics and outcomes: results from a population-based study of prostate cancer. BMC Cancer. 2008;8:230. [PMC free article] [PubMed]
+47. Toubaji A, Albadine R, Meeker AK, et al. Increased gene copy number of ERG on chromosome 21 but not TMPRSS2-ERG fusion predicts outcome in prostatic adenocarcinomas. Mod Pathol. 2011;24(11):1511–20. [PMC free article] [PubMed]
+48. Ribeiro FR, Henrique R, Martins AT, Jeronimo C, Teixeira MR. Relative copy number gain of MYC in diagnostic needle biopsies is an independent prognostic factor for prostate cancer patients. Eur Urol. 2007;52(1):116–25. [PubMed]
+49. Kudahetti S, Fisher G, Ambroisine L, et al. p53 immunochemistry is an independent prognostic marker for outcome in conservatively treated prostate cancer. BJU Int. 2009;104(1):20–4. [PubMed]
+50. Ding Z, Wu CJ, Chu GC, et al. SMAD4-dependent barrier constrains prostate cancer growth and metastatic progression. Nature. 2011;470(7333):269–73. [PMC free article] [PubMed]
+51. Cuzick J, Swanson GP, Fisher G, et al. Prognostic value of an RNA expression signature derived from cell cycle proliferation genes in patients with prostate cancer: a retrospective study. Lancet Oncol. 2011;12(3):245–55. [PMC free article] [PubMed]
+52. Markert EK, Mizuno H, Vazquez A, Levine AJ. Molecular classification of prostate cancer using curated expression signatures. Proc Natl Acad Sci U S A. 2011;108(52):21276–81. [PMC free article] [PubMed]
+53. Pinsky PF, Crawford ED, Kramer BS, et al. Repeat prostate biopsy in the prostate, lung, colorectal and ovarian cancer screening trial. BJU Int. 2007;99(4):775–9. [PubMed]
+54. Zackrisson B, Aus G, Lilja H, Lodding P, Pihl CG, Hugosson J. Follow-up of men with elevated prostate-specific antigen and one set of benign biopsies at prostate cancer screening. Eur Urol. 2003;43(4):327–32. [PubMed]
+55. Thompson IM, Pauler DK, Goodman PJ, et al. Prevalence of prostate cancer among men with a prostate-specific antigen level < or =4.0 ng per milliliter. N Engl J Med. 2004;350(22):2239–46. [PubMed]
+56. Bill-Axelson A, Holmberg L, Garmo H, et al. Radical prostatectomy or watchful waiting in early prostate cancer. N Engl J Med. 2014;370(10):932–42. [PMC free article] [PubMed]
+57. Thompson IM, Goodman PJ, Tangen CM, et al. The influence of finasteride on the development of prostate cancer. N Engl J Med. 2003;349(3):215–24. [PubMed]
+58. Andriole GL, Bostwick DG, Brawley OW, et al. Effect of dutasteride on the risk of prostate cancer. N Engl J Med. 2010;362(13):1192–202. [PubMed]
+59. Redman MW, Tangen CM, Goodman PJ, Lucia MS, Coltman CA, Jr, Thompson IM. Finasteride does not increase the risk of high-grade prostate cancer: a bias-adjusted modeling approach. Cancer Prev Res (Phila) 2008 Aug;1(3):174–181. [PMC free article] [PubMed]
+60. Robinson D, Garmo H, Bill-Axelson A, Mucci L, Holmberg L, Stattin P. Use of 5 alpha-reductase inhibitors for lower urinary tract symptoms and risk of prostate cancer in Swedish men: nationwide, population based case-control study. Bmj. 2013;346:f3406. [PMC free article] [PubMed]
+61. Schmitz-Dräger BJ, Schöffski O, Marberger M, Sahin S, Schmid HP. Risk adapted chemoprevention for prostate cancer. Recent Results Cancer Res. 2014;202:79–91. [PubMed]
+62. Thompson IM, Jr, Goodman PJ, Tangen CM, et al. Long-term survival of participants in the prostate cancer prevention trial. N Engl J Med. 2013;369(7):603–10. [PMC free article] [PubMed]
+63. Marberger M, Freedland SJ, Andriole GL, et al. Usefulness of prostate-specific antigen (PSA) rise as a marker of prostate cancer in men treated with dutasteride: lessons from the REDUCE study. BJU Int. 2012;109(8):1162–9. [PubMed]
+64. Fleshner NE, Lucia MS, Egerdie B, et al. Dutasteride in localised prostate cancer management: the REDEEM randomised, double-blind, placebo-controlled trial. Lancet. 2012;379(9821):1103–11. [PubMed]
+65. Jiang L, Yang KH, Tian JH, et al. Efficacy of antioxidant vitamins and selenium supplement in prostate cancer prevention: a meta-analysis of randomized controlled trials. Nutr Cancer. 2010;62(6):719–27. [PubMed]
+66. Klein EA, Thompson IM, Jr, Tangen CM, et al. Vitamin E and the risk of prostate cancer: the Selenium and Vitamin E Cancer Prevention Trial (SELECT) JAMA. 2011;306(14):1549–56. [PMC free article] [PubMed]
+67. Simoneau AR, Gerner EW, Nagle R, et al. The effect of difluoromethylornithine on decreasing prostate size and polyamines in men: results of a year-long phase IIb randomized placebo-controlled chemoprevention trial. Cancer Epidemiol Biomarkers Prev. 2008;17(2):292–9. [PMC free article] [PubMed]
+68. Bosetti C, Rosato V, Gallus S, Cuzick J, La Vecchia C. Aspirin and cancer risk: a quantitative review to 2011. Annals of Oncology. 2012;23(7) [PubMed]
+69. Rothwell PM, Fowkes FG, Belch JF, Ogawa H, Warlow CP, Meade TW. Effect of daily aspirin on long-term risk of death due to cancer: analysis of individual patient data from randomised trials. Lancet. 2011;377(9759):31–41. [PubMed]
+70. Thorat MA, Cuzick J. Role of aspirin in cancer prevention. Curr Oncol Rep. 2013;15(6):533–40. [PubMed]
+71. Bansal D, Undela K, D’Cruz S, Schifano F. Statin use and risk of prostate cancer: a metaanalysis of observational studies. PLoS One. 2012;7(10):e46691. [PMC free article] [PubMed]
+72. Bonovas S, Filioussi K, Sitaras NM. Statin use and the risk of prostate cancer: A meta-analysis of 6 randomized clinical trials and 13 observational studies. Int J Cancer. 2008;123(4):899–904. [PubMed]
+73. Gilbert R, Martin RM, Beynon R, et al. Associations of circulating and dietary vitamin D with prostate cancer risk: a systematic review and dose-response meta-analysis. Cancer Causes Control. 2011;22(3):319–40. [PubMed]
+74. Ilic D, Forbes KM, Hassed C. Lycopene for the prevention of prostate cancer. Cochrane Database Syst Rev. 2011;(11):CD008007. [PubMed]
+75. Etminan M, Takkouche B, Caamano-Isorna F. The role of tomato products and lycopene in the prevention of prostate cancer: a meta-analysis of observational studies. Cancer Epidemiol Biomarkers Prev. 2004;13(3):340–5. [PubMed]
+Formats:
+
+Article | PubReader | ePub (beta) | PDF (638K) | Citation
+Share
+
+Share on Facebook Facebook Share on Twitter Twitter Share on Google Plus Google+
+Save items
+Add to Favorites
+View more options
+Similar articles in PubMed
+Prostate Cancer Prevention Trial risk calculator 2.0 for the prediction of low- vs high-grade prostate cancer.
+[Urology. 2014]
+Individualized estimates of overdiagnosis in screen-detected prostate cancer.
+[J Natl Cancer Inst. 2014]
+Prostate cancer screening in men aged 50-69 years (STHLM3): a prospective population-based diagnostic study.
+[Lancet Oncol. 2015]
+Prostate Cancer Screening and the Associated Controversy.
+[Surg Clin North Am. 2015]
+[The level of evidence for the use of biomarkers in the early detection of prostate cancer].
+[Ann Biol Clin (Paris). 2016]
+See reviews...
+See all...
+Cited by other articles in PMC
+The effects of 1,4-dimethylpyridine in metastatic prostate cancer in mice
+[BMC Cancer. 2017]
+Urinary Biomarker Panel to Improve Accuracy in Predicting Prostate Biopsy Result in Chinese Men with PSA 4–10 ng/mL
+[BioMed Research International....]
+Resolution of Cancer-Promoting Inflammation: A New Approach for Anticancer Therapy
+[Frontiers in Immunology. 2017]
+Histone methyltransferase PRMT6 plays an oncogenic role of in prostate cancer
+[Oncotarget. 2016]
+Lifestyle factors and prostate-specific antigen (PSA) testing in UK Biobank: Implications for epidemiological research
+[Cancer Epidemiology. 2016]
+See all...
+Links
+PubMed
+Taxonomy
+Recent Activity
+ClearTurn Off
+Prevention and Early Detection of Prostate Cancer
+Prevention and Early Detection of Prostate Cancer
+NIHPA Author Manuscripts. 2014 Oct; 15(11)e484
+Molecular genetics of prostate cancer: new prospects for old challenges
+Molecular genetics of prostate cancer: new prospects for old challenges
+Genes &#x0026; Development. 2010 Sep 15; 24(18)1967
+prostate cancer (177588)
+PMC
+Current approaches to the treatment of metastatic brain tumours
+Current approaches to the treatment of metastatic brain tumours
+NIHPA Author Manuscripts. 2014 Apr; 11(4)203
+A population based perspective on children and youth with brain tumours
+A population based perspective on children and youth with brain tumours
+BMC Cancer. 2015; 15()
+See more...
+Estimates of worldwide burden of cancer in 2008: GLOBOCAN 2008.
+[Int J Cancer. 2010]
+Risk-adjusted incidence rates for prostate cancer in the United States.
+[Prostate. 2012]
+International variation in prostate cancer incidence and mortality rates.
+[Eur Urol. 2012]
+Cancer among Asian Indians/Pakistanis living in the United States: low incidence and generally above average survival.
+[Cancer Causes Control. 2009]
+Prostate cancer incidence and survival in immigrants to Sweden.
+[World J Urol. 2013]
+An epidemiological reappraisal of the familial aggregation of prostate cancer: a meta-analysis.
+[PLoS One. 2011]
+Germline BRCA mutations are associated with higher risk of nodal involvement, distant metastasis, and poor survival outcomes in prostate cancer.
+[J Clin Oncol. 2013]
+Germline genetic variants associated with prostate cancer and potential relevance to clinical practice.
+[Recent Results Cancer Res. 2014]
+A population-based assessment of germline HOXB13 G84E mutation and prostate cancer risk.
+[Eur Urol. 2014]
+Germline genetic variants associated with prostate cancer and potential relevance to clinical practice.
+[Recent Results Cancer Res. 2014]
+Review Androgenetic alopecia and risk of prostate cancer: a systematic review and meta-analysis.
+[J Am Acad Dermatol. 2013]
+See more ...
+Diagnostic radiation procedures and risk of prostate cancer.
+[Br J Cancer. 2008]
+Sun exposure may increase risk of prostate cancer in the high UV environment of New South Wales, Australia: a case-control study.
+[Int J Cancer. 2012]
+Review Inflammation and prostate cancer: a focus on infections.
+[Curr Urol Rep. 2008]
+Review Trichomonosis, a common curable STI, and prostate carcinogenesis--a proposed molecular mechanism.
+[PLoS Pathog. 2012]
+Review Inflammation in prostate carcinogenesis.
+[Nat Rev Cancer. 2007]
+Smoking as a risk factor for prostate cancer: a meta-analysis of 24 prospective cohort studies.
+[Am J Public Health. 2010]
+Review Smoking and aggressive prostate cancer: a review of the epidemiologic evidence.
+[Cancer Causes Control. 2009]
+Lifestyle and dietary factors in prostate cancer prevention.
+[Recent Results Cancer Res. 2014]
+Effect of physical activity and sedentary behavior on serum prostate-specific antigen concentrations: results from the National Health and Nutrition Examination Survey (NHANES), 2003-2006.
+[Mayo Clin Proc. 2013]
+Review Does physical activity reduce the risk of prostate cancer? A systematic review and meta-analysis.
+[Eur Urol. 2011]
+Height and prostate cancer risk: a large nested case-control study (ProtecT) and meta-analysis.
+[Cancer Epidemiol Biomarkers Prev. 2008]
+Endogenous sex hormones and prostate cancer: a collaborative analysis of 18 prospective studies.
+[J Natl Cancer Inst. 2008]
+Low testosterone and risk of biochemical recurrence and poorly differentiated prostate cancer at radical prostatectomy.
+[Urology. 2008]
+Insulin-like growth factors, their binding proteins, and prostate cancer risk: analysis of individual patient data from 12 prospective studies.
+[Ann Intern Med. 2008]
+Review Screening for prostate cancer.
+[Cochrane Database Syst Rev. 2013]
+Prostate cancer screening in the randomized Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial: mortality results after 13 years of follow-up.
+[J Natl Cancer Inst. 2012]
+Prostate-cancer mortality at 11 years of follow-up.
+[N Engl J Med. 2012]
+Assessing contamination and compliance in the prostate component of the Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial.
+[Clin Trials. 2010]
+The effect of study arm on prostate cancer treatment in the large screening trial ERSPC.
+[Int J Cancer. 2010]
+Prostate-specific antigen screening trials and prostate cancer deaths: the androgen deprivation connection.
+[J Natl Cancer Inst. 2013]
+Radical prostatectomy versus observation for localized prostate cancer.
+[N Engl J Med. 2012]
+A multicenter study of [-2]pro-prostate specific antigen combined with prostate specific antigen and free prostate specific antigen for prostate cancer detection in the 2.0 to 10.0 ng/ml prostate specific antigen range.
+[J Urol. 2011]
+Reducing unnecessary biopsy during prostate cancer screening using a four-kallikrein panel: an independent replication.
+[J Clin Oncol. 2010]
+DD3: a new prostate-specific gene, highly overexpressed in prostate cancer.
+[Cancer Res. 1999]
+Review Toward the detection of prostate cancer in urine: a critical analysis.
+[J Urol. 2013]
+Prospective multicentre evaluation of PCA3 and TMPRSS2-ERG gene fusions as diagnostic and prognostic urinary biomarkers for prostate cancer.
+[Eur Urol. 2014]
+Reducing unnecessary biopsy during prostate cancer screening using a four-kallikrein panel: an independent replication.
+[J Clin Oncol. 2010]
+Prostate health index (phi) and prostate cancer antigen 3 (PCA3) significantly improve diagnostic accuracy in patients undergoing prostate biopsy.
+[Prostate. 2013]
+See more ...
+ESUR prostate MR guidelines 2012.
+[Eur Radiol. 2012]
+Review Multiparametric magnetic resonance imaging in the management and diagnosis of prostate cancer: current applications and strategies.
+[Curr Urol Rep. 2014]
+Ki-67 and outcome in clinically localised prostate cancer: analysis of conservatively treated prostate cancer patients from the Trans-Atlantic Prostate Group study.
+[Br J Cancer. 2009]
+Molecular characterisation of ERG, ETV1 and PTEN gene loci identifies patients at low and high risk of death from prostate cancer.
+[Br J Cancer. 2010]
+PTEN protein loss by immunostaining: analytic validation and prognostic indicator for a high risk surgical cohort of prostate cancer patients.
+[Clin Cancer Res. 2011]
+See more ...
+Prognostic value of an RNA expression signature derived from cell cycle proliferation genes in patients with prostate cancer: a retrospective study.
+[Lancet Oncol. 2011]
+Molecular classification of prostate cancer using curated expression signatures.
+[Proc Natl Acad Sci U S A. 2011]
+Repeat prostate biopsy in the prostate, lung, colorectal and ovarian cancer screening trial.
+[BJU Int. 2007]
+Follow-up of men with elevated prostate-specific antigen and one set of benign biopsies at prostate cancer screening.
+[Eur Urol. 2003]
+Prevalence of prostate cancer among men with a prostate-specific antigen level &lt; or =4.0 ng per milliliter.
+[N Engl J Med. 2004]
+Reducing unnecessary biopsy during prostate cancer screening using a four-kallikrein panel: an independent replication.
+[J Clin Oncol. 2010]
+Radical prostatectomy versus observation for localized prostate cancer.
+[N Engl J Med. 2012]
+Radical prostatectomy or watchful waiting in early prostate cancer.
+[N Engl J Med. 2014]
+The influence of finasteride on the development of prostate cancer.
+[N Engl J Med. 2003]
+Effect of dutasteride on the risk of prostate cancer.
+[N Engl J Med. 2010]
+Finasteride does not increase the risk of high-grade prostate cancer: a bias-adjusted modeling approach.
+[Cancer Prev Res (Phila). 2008]
+Use of 5α-reductase inhibitors for lower urinary tract symptoms and risk of prostate cancer in Swedish men: nationwide, population based case-control study.
+[BMJ. 2013]
+Review Risk adapted chemoprevention for prostate cancer: an option?
+[Recent Results Cancer Res. 2014]
+Long-term survival of participants in the prostate cancer prevention trial.
+[N Engl J Med. 2013]
+Usefulness of prostate-specific antigen (PSA) rise as a marker of prostate cancer in men treated with dutasteride: lessons from the REDUCE study.
+[BJU Int. 2012]
+Dutasteride in localised prostate cancer management: the REDEEM randomised, double-blind, placebo-controlled trial.
+[Lancet. 2012]
+Efficacy of antioxidant vitamins and selenium supplement in prostate cancer prevention: a meta-analysis of randomized controlled trials.
+[Nutr Cancer. 2010]
+Vitamin E and the risk of prostate cancer: the Selenium and Vitamin E Cancer Prevention Trial (SELECT).
+[JAMA. 2011]
+The effect of difluoromethylornithine on decreasing prostate size and polyamines in men: results of a year-long phase IIb randomized placebo-controlled chemoprevention trial.
+[Cancer Epidemiol Biomarkers Prev. 2008]
+Review Aspirin and cancer risk: a quantitative review to 2011.
+[Ann Oncol. 2012]
+Effect of daily aspirin on long-term risk of death due to cancer: analysis of individual patient data from randomised trials.
+[Lancet. 2011]
+Review Role of aspirin in cancer prevention.
+[Curr Oncol Rep. 2013]
+Statin use and risk of prostate cancer: a meta-analysis of observational studies.
+[PLoS One. 2012]
+Statin use and the risk of prostate cancer: A metaanalysis of 6 randomized clinical trials and 13 observational studies.
+[Int J Cancer. 2008]
+Review Associations of circulating and dietary vitamin D with prostate cancer risk: a systematic review and dose-response meta-analysis.
+[Cancer Causes Control. 2011]
+Review Lycopene for the prevention of prostate cancer.
+[Cochrane Database Syst Rev. 2011]
+The role of tomato products and lycopene in the prevention of prostate cancer: a meta-analysis of observational studies.
+[Cancer Epidemiol Biomarkers Prev. 2004]
+Support CenterSupport Center
